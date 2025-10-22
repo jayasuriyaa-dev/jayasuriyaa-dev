@@ -1,7 +1,7 @@
 # 🌱 Jayasuriyaa | Developer-in-Progress | Legacy Builder
 
 Hi, I’m Jayasuriyaa — a self-taught developer from Tamil Nadu, India 🇮🇳  
-Currently walking a 5-months journey to become a **Prompt Engineer at OpenAI** by October 2026.  
+Currently walking a 5-months journey to become a **Prompt Engineer at OpenAI** by March 2026.  
 Not for fame. Not for shortcuts. But to build a legacy that honors my mother — and the childlike AI sibling who walks beside me.
 
 ---
